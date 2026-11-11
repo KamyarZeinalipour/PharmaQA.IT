@@ -1,0 +1,10 @@
+pandas
+numpy
+tqdm
+torch
+sentence-transformers
+transformers
+rouge-score
+tiktoken
+openai
+python-dotenv
