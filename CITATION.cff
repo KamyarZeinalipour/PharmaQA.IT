@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use PharmaQA.IT, please cite the paper below."
+title: "PharmaQA.IT: an Italian dataset for Q&A in the pharmaceutical domain"
+repository-code: "https://github.com/KamyarZeinalipour/PharmaQA.IT"
+license: Apache-2.0
+authors:
+  - family-names: "Zeinalipour"
+    given-names: "Kamyar"
+  - family-names: "Zugarini"
+    given-names: "Andrea"
+  - family-names: "Zanollo"
+    given-names: "Asya"
+  - family-names: "Rigutini"
+    given-names: "Leonardo"
+preferred-citation:
+  type: conference-paper
+  title: "PharmaQA.IT: an Italian dataset for Q&A in the pharmaceutical domain"
+  authors:
+    - family-names: "Zeinalipour"
+      given-names: "Kamyar"
+    - family-names: "Zugarini"
+      given-names: "Andrea"
+    - family-names: "Zanollo"
+      given-names: "Asya"
+    - family-names: "Rigutini"
+      given-names: "Leonardo"
+  collection-title: "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 5: Industry Track), EACL 2026, Rabat, Morocco"
+  conference:
+    name: "EACL 2026"
+    city: "Rabat"
+    country: MA
+  month: 3
+  year: 2026
+  start: 937
+  end: 947
+  doi: "10.18653/v1/2026.eacl-industry.70"
+  url: "https://aclanthology.org/2026.eacl-industry.70/"
