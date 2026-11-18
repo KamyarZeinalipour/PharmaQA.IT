@@ -92,6 +92,19 @@ asks the model to answer from them. Chunk size and overlap are configurable; the
 | 256–64 | 0.580 |
 | 512–128 | 0.615 |
 
+<!-- hf-usage -->
+## Load the models and data from Hugging Face
+
+Everything released with the paper is in the Hugging Face collection [PharmaQA.IT (EACL 2026)](https://huggingface.co/collections/Kamyar-zeinalipour/pharmaqait-eacl-2026-6af48b09756c4d246ff52887).
+
+```python
+from datasets import load_dataset
+
+data = load_dataset("Kamyar-zeinalipour/PharmaQA.IT")
+```
+
+<!-- /hf-usage -->
+
 ## Citation
 
 ```bibtex
